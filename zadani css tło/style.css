@@ -1,0 +1,69 @@
+#div1{
+    background-color: yellow;
+    height: 400px;
+    width: 400px;
+}
+
+#div2{
+    background-color: rgb(0,255,0);
+    height: 400px;
+    width: 400px;
+}
+
+#div3{
+    background-color: #00FF00;
+    height: 400px;
+    width: 400px;
+}
+
+#div4{
+    background-color: rgba(100, 20, 50, 0.5);
+    height: 400px;
+    width: 400px;
+}
+
+#div5{
+    background-color: hsl(0, 100%, 50%);
+    height: 400px;
+    width: 400px;
+}
+
+#div6{
+   background-color: hsla(235, 100%, 50%, 0.5); 
+   height: 400px;
+   width: 400px;
+}
+
+#div7{
+    background-image: url(123.jpg);
+    height: 400px;
+    width: 400px;
+}
+
+#div8{
+    background-image: url(123.jpg);
+    background-size:  80px;
+    background-repeat: repeat-x;
+    height: 400px;
+    width: 400px;
+}
+
+#div9{
+    background-image: url(123.jpg);
+    background-size: 100px;
+    background-repeat: repeat-y;
+    height: 400px;
+    width: 400px;
+}
+
+#div10{
+background-image: url(123.jpg);
+background-repeat: unset;
+height: 400px;
+width: 400px;
+}
+
+#div11{
+    height: 400px;
+    width: 400px;
+}

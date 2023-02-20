@@ -1,0 +1,69 @@
+.strona{
+    background-color:  #F6E5DC;
+    font-family: verdana;
+}
+
+.container{
+    display: flex;
+}
+
+.baner{
+    background-color: #2F180C;
+    text-align: center;
+    color: khaki;
+    height: 60px;
+}
+
+.panel_lewy{
+    width: 60%;
+}
+
+img{
+    height: 350px;
+}
+
+.panel_prawy{
+    font-size: 150%;
+    margin: 70px;
+
+}
+
+.panel_dolny{
+    background-color: #D0B6A8;
+    text-align: center;
+    height: 283px;
+}
+
+input[type=date] {
+    height: 20px;
+    width: 170px;
+}
+
+input[type=number] {
+    height: 20px;
+    width: 170px;
+}
+
+input[type=tel]{
+    resize: none;
+    height: 20px;
+    width: 170px;
+}
+
+.stopka{
+    background-color: #2F180C;
+    color: khaki;
+    height: 60px;
+}
+
+input[type=reset]{
+    background-color: #2F180C;
+    color: khaki;
+    margin: 10px;
+}
+
+input[type=submit]{
+    background-color: #2F180C;
+    color: khaki;
+    margin: 10px;
+}
